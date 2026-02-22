@@ -19,8 +19,8 @@ A modern Apple iPhone landing page clone built with React, featuring smooth anim
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd apple_iphone_website
+git clone https://github.com/delmsyap/apple-iPhone
+cd apple-iPhone
 
 # Install dependencies
 npm install
@@ -34,11 +34,6 @@ npm install
 | `npm run build` | Build for production |
 | `npm run preview` | Preview production build locally |
 | `npm run lint` | Run ESLint |
-
-## Environment Variables
-
-<!-- TODO: Add environment variables if needed -->
-No environment variables are currently required.
 
 ## Project Structure
 
@@ -60,13 +55,3 @@ apple_iphone_website/
 ├── eslint.config.js     # ESLint configuration
 └── package.json
 ```
-
-## Tests
-
-<!-- TODO: Add testing framework and tests -->
-No tests configured yet.
-
-## License
-
-<!-- TODO: Add license information -->
-License not specified.
