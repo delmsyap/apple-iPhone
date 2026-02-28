@@ -12,7 +12,7 @@ export const animateWithGsap = (target, animationProps, scrollProps) => {
       start: 'top 85%',
       ...scrollProps,
     }
-  })
+  }) 
   
   
 }
