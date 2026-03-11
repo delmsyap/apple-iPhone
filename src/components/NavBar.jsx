@@ -1,6 +1,7 @@
 import React from 'react'
+import app from "../App.jsx";
 import {navLists} from "../constants";
-import {appleImg, searchImg, bagImg} from "../utils";
+import {appleImg, searchImg, bagImg, watchImg} from "../utils";
 
 const NavBar = () => {
     return (
